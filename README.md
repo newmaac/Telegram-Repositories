@@ -103,4 +103,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Channel-Message-Editor)](https://github.com/FayasNoushad/Channel-Message-Editor)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Bot-Status-UserBot)](https://github.com/FayasNoushad/Bot-Status-UserBot)
+
 ---
