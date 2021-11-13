@@ -1,3 +1,7 @@
+## Basic
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Simple-Pyrogram-Bot)](https://github.com/FayasNoushad/Simple-Pyrogram-Bot)
+
 ## Text
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Attach-Bot)](https://github.com/FayasNoushad/Attach-Bot)
