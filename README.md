@@ -1,5 +1,7 @@
 ## Basic
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Pyrogram-Bot)](https://github.com/FayasNoushad/Pyrogram-Bot)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Simple-Pyrogram-Bot)](https://github.com/FayasNoushad/Simple-Pyrogram-Bot)
 
 ## Text
